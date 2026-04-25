@@ -1,6 +1,6 @@
 ﻿namespace TeoremaTriangulo
 {
-    partial class Form1
+    partial class TrianguloFrm
     {
         /// <summary>
         ///  Required designer variable.

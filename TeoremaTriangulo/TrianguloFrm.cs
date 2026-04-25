@@ -4,9 +4,9 @@ using System.Windows.Forms;
 
 namespace TeoremaTriangulo
 {
-    public partial class Form1 : Form
+    public partial class TrianguloFrm : Form
     {
-        public Form1()
+        public TrianguloFrm()
         {
             InitializeComponent();
             MostrarControlesResultados(false);
