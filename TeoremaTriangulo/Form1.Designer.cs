@@ -227,7 +227,7 @@
             // 
             // imgTry
             // 
-            imgTry.InitialImage = Properties.Resources.TriEquilatero;
+            //imgTry.InitialImage = Properties.Resources.TriEquilatero;
             imgTry.Location = new Point(355, 464);
             imgTry.Name = "imgTry";
             imgTry.Size = new Size(232, 134);
