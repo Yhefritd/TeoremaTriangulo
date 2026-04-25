@@ -123,6 +123,7 @@
             btnCalcular.TabIndex = 10;
             btnCalcular.Text = "CALCULAR";
             btnCalcular.UseVisualStyleBackColor = true;
+            btnCalcular.Click += btnCalcular_Click_1;
             // 
             // btnLimpiar
             // 
@@ -135,6 +136,7 @@
             btnLimpiar.TabIndex = 11;
             btnLimpiar.Text = "Limpiar";
             btnLimpiar.UseVisualStyleBackColor = true;
+            btnLimpiar.Click += btnLimpiar_Click_1;
             // 
             // lblResultados
             // 
@@ -227,7 +229,6 @@
             // 
             // imgTry
             // 
-            //imgTry.InitialImage = Properties.Resources.TriEquilatero;
             imgTry.Location = new Point(355, 464);
             imgTry.Name = "imgTry";
             imgTry.Size = new Size(232, 134);
